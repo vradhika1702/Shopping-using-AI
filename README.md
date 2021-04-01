@@ -1,0 +1,2 @@
+# Shopping-using-AI
+A web portal that lets the user shop clothes by performing multiple keyword-based search according to his/her need. In addition to this, one can also click a picture of his/her favourite outfit and upload it on the system in order to get the exact, similar or matching style recommendations for the product. The user will also get cloth-recommendations for his/her purchase. This ensures comfort of the user, more efficient and optimized shopping experience, increase in sales for the seller and wardrobe management.
